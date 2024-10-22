@@ -31,18 +31,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.3
-  cached_network_image: ^3.1.0
-  flutter_inappwebview: ^5.7.1
-  flutter_windowmanager: ^0.2.0
-  intl: ^0.17.0
-  loading_overlay: ^0.3.0
-  package_info_plus: ^3.0.2
+  http: ^1.2.2
+  intl: ^0.19.0
+  loading_overlay: ^0.4.2
   random_string: ^2.0.1
   responsive_sizer: ^3.1.1
   shared_preferences: ^2.0.6
-  dio: ^4.0.4
-  webview_flutter: ^3.0.4
+  dio: ^5.7.0
+  webview_flutter: ^4.10.0
   universal_platform: ^1.0.0+1
   url_launcher: ^6.0.10
 
@@ -59,7 +55,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

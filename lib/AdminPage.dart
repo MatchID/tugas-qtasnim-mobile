@@ -38,12 +38,12 @@ class AdminPage extends StatelessWidget {
               child: Text('Barang'),
             ),
             SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: () {
-                //
-              },
-              child: Text('Tombol Aksi Admin'),
-            ),
+            // ElevatedButton(
+            //   onPressed: () {
+            //     //
+            //   },
+            //   child: Text('Tombol Aksi Admin'),
+            // ),
           ],
         ),
       ),
